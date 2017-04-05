@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Welcome
-sub-title: This is a simple landing page for anyone interested in my many lives.
+title: Welcome to my site
+subtitle: A simple landing page for anyone interested in any of my many lives.
 bigimg: /img/space.png
 ---
-
-As of now, I'm making this website for the fun of it. Refining another tool to be added to my box persay. I may end up putting some things here such as links to my musical creations, info about my programming persuits, or inspiring writing i've come across. 
 
 ### Brief Bio
 
@@ -24,3 +22,5 @@ My internal life. When my other two lives have taken time off, I kick into gear 
 
 
 I keep myself busy. I find that I'm happier this way. Humans like to strive for things. They're not satisfied at the summit nor the valley. So, I keep climbing. Of course, a few scenic detours are encouraged along the way.
+
+As of now, I'm making this website for the fun of it. Refining another tool to be added to my box persay. I may end up putting some things here such as links to my musical creations, info about my programming persuits, or inspiring writing i've come across. 
