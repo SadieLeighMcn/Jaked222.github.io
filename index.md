@@ -1,6 +1,6 @@
 ---
 layout: page
-title: jake (from space)
+title: JakeD
 subtitle: A simple landing page for those interested in any of my many lives.
 bigimg: /img/space.png
 ---
