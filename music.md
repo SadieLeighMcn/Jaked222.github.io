@@ -5,7 +5,7 @@ subtitle: Music is the language of the spirit. It opens the secret of life bring
 bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
 ---
 
-#Songs I enjoy playing
+# Songs I enjoy playing
 
 
 * **Unknown creators/Misc:**
@@ -47,7 +47,7 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Unnamed (church song, G major)
 
 
-#Songs in progress
+# Songs in progress
 
 
 * **Claude Debussy**
