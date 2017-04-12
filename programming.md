@@ -2,7 +2,7 @@
 layout: page
 title: Programming
 subtitle: Modern Day Wizardry
-bigimg: /img/wizard.png
+bigimg: /img/3d-world-new-technology-rocks.jpg
 ---
 
 This site is not meant to serve as a resume for programming, because I don't want my skills judged based on the appearance or construction of it. The pages are just for me and whomever may stumble upon it, and I very much wanted something simple for that purpose. 
