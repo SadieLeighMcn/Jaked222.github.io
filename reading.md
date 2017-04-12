@@ -59,6 +59,9 @@ bigimg: /img/knowledge.jpg
   * Demian
 * **Pablo Coehlo**
   * The Alchemist
+* **Lewis Carroll**
+  * Alice in Wonderland
+  * Through the Looking Glass
 
 
 # Some books/authors I would like to read, here for safe keeping
