@@ -12,17 +12,17 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * My Lonely Road
   * Surrender
   * Roses - Outkas
-  * Heart n Soul
+  * [Heart n Soul](https://www.youtube.com/watch?v=54v442rETnI)
   * Warmness on the soul - Avenged Sevenfold
   * Hallelujah piano cover
   * Canon in D or C
 * **JS Bach:**
-  * Goldberg Variations: Aria
-  * C minor Fugue, WTC BK 1
+  * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
+  * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
 * **CPE Bach:**
   * Solfegietto
 * **Beethoven:**
-  * Fur Elise
+  * [Fur Elise](https://www.youtube.com/watch?v=51f7dpnTRrs)
   * Moonlight Sonata First Movement
 * **Chopin:** 
   * Nocturnes op 9 no. 1
@@ -33,7 +33,7 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Gnossiennes no. 
   * Gnossiennes no. 2
   * Gnossiennes no. 3
-  * Gnossiennes no. 4
+  * [Gnossiennes no. 4](https://www.youtube.com/watch?v=QpzzSN1ScSY)
 * **Scott Joplin**
   * Maple Leaf Rag
 * **George Winston**
@@ -43,7 +43,7 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Waltz of Amelie
   * Compitine d'un autre ete
 * **Original:**
-  * Once a distant future
+  * [Once a distant future](https://www.youtube.com/watch?v=2k5TSnT_gw4)
   * Unnamed (church song, G major)
 
 
