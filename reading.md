@@ -54,6 +54,11 @@ bigimg: /img/knowledge.jpg
 * **Fyodor Dostoyevsky**
   * The Brothers Karamazov
   * The Gentle Creature (A meek one)
+* **Herman Hesse**
+  * Siddhartha 
+  * Demian
+* **Pablo Coehlo**
+  * The Alchemist
 
 
 # Some books/authors I would like to read, here for safe keeping
