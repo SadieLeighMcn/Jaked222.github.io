@@ -1,8 +1,8 @@
 ---
 layout: page
-title: JakeD
-subtitle: A simple landing page for those interested in any of my many lives.
-bigimg: /img/space.png
+title: Sadie Leigh McNamara
+subtitle: Dance quote
+bigimg: /img/homepage.jpg
 ---
 
 ### Brief Bio
