@@ -14,10 +14,10 @@ paginate_path: "/blog/page:num"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jake C Duncan
+title: Sadie Leigh
 
 # Short description of your site
-description: Personal Site
+description: Dance
 
 # --- Navigation bar options --- #
 
@@ -42,10 +42,10 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jake Duncan
-  email: "jakecduncan@gmail.com"
-  github: Jaked222  # eg. daattali
-  linkedin: Jake Duncan # eg. daattali    # eg. daattali
+  name: Sadie Leigh McNamara
+  email: "sadieleighmcn@gmail.com"
+  #github: Jaked222  # eg. daattali
+  #linkedin: Jake Duncan # eg. daattali    # eg. daattali
   youtube: channel/UC0kLhj68GaF0pjY-4LzBKiA # eg. user/daattali or channel/daattali
 
 # Select which links to show in the footer
@@ -71,11 +71,11 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sadieleighmcn"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "sadieleigh.live"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
