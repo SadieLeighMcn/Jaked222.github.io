@@ -23,11 +23,10 @@ description: Dance
 
 # List of links in the navigation bar
 navbar-links:
-  Interests:
-    - Programming: "programming"
-    - Music: "music"
-    - Reading/Writing: "reading"
-  Blog: "blog/"
+  Media:
+    - Videos: "programming"
+    - Pictures: "music"
+ Resume: "blog/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -46,16 +45,16 @@ author:
   email: "sadieleighmcn@gmail.com"
   #github: Jaked222  # eg. daattali
   #linkedin: Jake Duncan # eg. daattali    # eg. daattali
-  youtube: channel/UC0kLhj68GaF0pjY-4LzBKiA # eg. user/daattali or channel/daattali
+  #youtube: channel/UC0kLhj68GaF0pjY-4LzBKiA # eg. user/daattali or channel/daattali
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
@@ -68,8 +67,8 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: false
 
